@@ -1,4 +1,4 @@
-# Sedunia Self Custody Wallet
+# Iris Self Custody Wallet
 
 > A self-custody wallet engineered for uncompromising security and lightning-fast trading.
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-Sedunia Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, Sedunia combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
+Iris Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, Iris combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
 
 **You own your keys. You own your trades. No middlemen, no custodians, no compromises.**
 
@@ -19,7 +19,7 @@ Sedunia Wallet is a non-custodial crypto wallet built for traders who demand bot
 ## Key Features
 
 ### 🔐 Security First
-- **True self-custody** — Private keys are generated and stored locally; Sedunia servers never see them
+- **True self-custody** — Private keys are generated and stored locally; Iris servers never see them
 - **Hardware wallet support** — Native integration with Ledger, Trezor, and other major hardware devices
 - **Encrypted local storage** — AES-256 encryption with a user-defined passphrase
 - **Biometric unlock** — Face ID, Touch ID, and Android biometric authentication
@@ -53,10 +53,10 @@ Sedunia Wallet is a non-custodial crypto wallet built for traders who demand bot
 
 ### Desktop (macOS, Windows, Linux)
 
-Download the latest release from [Sedunia.io/download](https://Sedunia.io/download), or build from source:
+Download the latest release from [Iris.io/download](https://Iris.io/download), or build from source:
 
 ```bash
-git clone https://github.com/Sedunia/NART-wallet.git
+git clone https://github.com/Iris/NART-wallet.git
 cd NART-wallet
 npm install
 npm run build
@@ -65,7 +65,7 @@ npm start
 
 ### Mobile
 - [iOS App Store](https://apps.apple.com/app/NART-finance)
-- [Google Play](https://play.google.com/store/apps/details?id=io.Sedunia)
+- [Google Play](https://play.google.com/store/apps/details?id=io.Iris)
 
 ### Browser Extension
 - [Chrome Web Store](https://chrome.google.com/webstore)
@@ -75,9 +75,9 @@ npm start
 
 ## Quick Start
 
-1. **Install** Sedunia on your platform of choice.
+1. **Install** Iris on your platform of choice.
 2. **Create a wallet** or import an existing one using a seed phrase or hardware device.
-3. **Back up your seed phrase** — write it down and store it offline. Sedunia cannot recover it for you.
+3. **Back up your seed phrase** — write it down and store it offline. Iris cannot recover it for you.
 4. **Fund your wallet** by sending crypto to your address or bridging from another chain.
 5. **Start trading** — connect to any dApp or use the built-in swap interface.
 
@@ -85,7 +85,7 @@ npm start
 
 ## Architecture
 
-Sedunia is built on a modular, security-focused architecture:
+Iris is built on a modular, security-focused architecture:
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -108,14 +108,14 @@ Sedunia is built on a modular, security-focused architecture:
 
 ## Security
 
-Security is the foundation of Sedunia, not an afterthought.
+Security is the foundation of Iris, not an afterthought.
 
 - **Audits** — Audited by leading security firms; full reports available in [`/audits`](./audits)
 - **Bug bounty** — Up to $250,000 for critical vulnerabilities. See [SECURITY.md](./SECURITY.md)
 - **Reproducible builds** — Verify that the binary you run matches the public source code
 - **No telemetry by default** — Opt-in only, never tied to wallet addresses
 
-If you discover a security vulnerability, please email **security@Sedunia.io** rather than opening a public issue.
+If you discover a security vulnerability, please email **security@Iris.io** rather than opening a public issue.
 
 ---
 
@@ -150,23 +150,23 @@ npm run dev
 
 ## License
 
-Sedunia is released under the [MIT License](./LICENSE).
+Iris is released under the [MIT License](./LICENSE).
 
 ---
 
 ## Disclaimer
 
-Sedunia is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. Sedunia is provided "as is" without warranty of any kind.
+Iris is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. Iris is provided "as is" without warranty of any kind.
 
 ---
 
 ## Links
 
-- 🌐 Website: [Sedunia.io](https://Sedunia.io)
-- 📖 Docs: [docs.Sedunia.io](https://docs.Sedunia.io)
-- 🐦 Twitter: [@Sedunia](https://twitter.com/Sedunia)
-- 💬 Discord: [discord.gg/Sedunia](https://discord.gg/Sedunia)
-- 📧 Contact: hello@Sedunia.io
+- 🌐 Website: [Iris.io](https://Iris.io)
+- 📖 Docs: [docs.Iris.io](https://docs.Iris.io)
+- 🐦 Twitter: [@Iris](https://twitter.com/Iris)
+- 💬 Discord: [discord.gg/Iris](https://discord.gg/Iris)
+- 📧 Contact: hello@Iris.io
 
 ---
 
