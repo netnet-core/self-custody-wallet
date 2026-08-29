@@ -1,4 +1,4 @@
-# Axiom Self Custody Wallet
+# Shogun Self Custody Wallet
 
 > A self-custody wallet engineered for uncompromising security and lightning-fast trading.
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-Axiom Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, Axiom combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
+Shogun Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, Shogun combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
 
 **You own your keys. You own your trades. No middlemen, no custodians, no compromises.**
 
@@ -19,7 +19,7 @@ Axiom Wallet is a non-custodial crypto wallet built for traders who demand both 
 ## Key Features
 
 ### 🔐 Security First
-- **True self-custody** — Private keys are generated and stored locally; Axiom servers never see them
+- **True self-custody** — Private keys are generated and stored locally; Shogun servers never see them
 - **Hardware wallet support** — Native integration with Ledger, Trezor, and other major hardware devices
 - **Encrypted local storage** — AES-256 encryption with a user-defined passphrase
 - **Biometric unlock** — Face ID, Touch ID, and Android biometric authentication
@@ -53,10 +53,10 @@ Axiom Wallet is a non-custodial crypto wallet built for traders who demand both 
 
 ### Desktop (macOS, Windows, Linux)
 
-Download the latest release from [Axiom.io/download](https://Axiom.io/download), or build from source:
+Download the latest release from [Shogun.io/download](https://Shogun.io/download), or build from source:
 
 ```bash
-git clone https://github.com/Axiom/NART-wallet.git
+git clone https://github.com/Shogun/NART-wallet.git
 cd NART-wallet
 npm install
 npm run build
@@ -65,7 +65,7 @@ npm start
 
 ### Mobile
 - [iOS App Store](https://apps.apple.com/app/NART-finance)
-- [Google Play](https://play.google.com/store/apps/details?id=io.Axiom)
+- [Google Play](https://play.google.com/store/apps/details?id=io.Shogun)
 
 ### Browser Extension
 - [Chrome Web Store](https://chrome.google.com/webstore)
@@ -75,9 +75,9 @@ npm start
 
 ## Quick Start
 
-1. **Install** Axiom on your platform of choice.
+1. **Install** Shogun on your platform of choice.
 2. **Create a wallet** or import an existing one using a seed phrase or hardware device.
-3. **Back up your seed phrase** — write it down and store it offline. Axiom cannot recover it for you.
+3. **Back up your seed phrase** — write it down and store it offline. Shogun cannot recover it for you.
 4. **Fund your wallet** by sending crypto to your address or bridging from another chain.
 5. **Start trading** — connect to any dApp or use the built-in swap interface.
 
@@ -85,7 +85,7 @@ npm start
 
 ## Architecture
 
-Axiom is built on a modular, security-focused architecture:
+Shogun is built on a modular, security-focused architecture:
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -108,14 +108,14 @@ Axiom is built on a modular, security-focused architecture:
 
 ## Security
 
-Security is the foundation of Axiom, not an afterthought.
+Security is the foundation of Shogun, not an afterthought.
 
 - **Audits** — Audited by leading security firms; full reports available in [`/audits`](./audits)
 - **Bug bounty** — Up to $250,000 for critical vulnerabilities. See [SECURITY.md](./SECURITY.md)
 - **Reproducible builds** — Verify that the binary you run matches the public source code
 - **No telemetry by default** — Opt-in only, never tied to wallet addresses
 
-If you discover a security vulnerability, please email **security@Axiom.io** rather than opening a public issue.
+If you discover a security vulnerability, please email **security@Shogun.io** rather than opening a public issue.
 
 ---
 
@@ -150,23 +150,23 @@ npm run dev
 
 ## License
 
-Axiom is released under the [MIT License](./LICENSE).
+Shogun is released under the [MIT License](./LICENSE).
 
 ---
 
 ## Disclaimer
 
-Axiom is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. Axiom is provided "as is" without warranty of any kind.
+Shogun is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. Shogun is provided "as is" without warranty of any kind.
 
 ---
 
 ## Links
 
-- 🌐 Website: [Axiom.io](https://Axiom.io)
-- 📖 Docs: [docs.Axiom.io](https://docs.Axiom.io)
-- 🐦 Twitter: [@Axiom](https://twitter.com/Axiom)
-- 💬 Discord: [discord.gg/Axiom](https://discord.gg/Axiom)
-- 📧 Contact: hello@Axiom.io
+- 🌐 Website: [Shogun.io](https://Shogun.io)
+- 📖 Docs: [docs.Shogun.io](https://docs.Shogun.io)
+- 🐦 Twitter: [@Shogun](https://twitter.com/Shogun)
+- 💬 Discord: [discord.gg/Shogun](https://discord.gg/Shogun)
+- 📧 Contact: hello@Shogun.io
 
 ---
 
